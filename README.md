@@ -55,5 +55,5 @@ and then making it more complicated.
 learning        ████████████████████
 building        ██████████████████░░
 debugging       ████████████████████
-sleeping        ███░░░░░░░░░░░░░░░░░
+sleeping      ██░░░░░░░░░░░░░░░░░░░░
 overthinking    ████████████████████
