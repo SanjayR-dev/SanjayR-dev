@@ -19,7 +19,7 @@ Learning my way through problems that seemed too big yesterday.
 - 🎓 **Doing** — Computer Science
 - 💻 **Usually found** — Somewhere between C++, Python, and a questionable idea
 - 🧠 **Interested in** — AI/ML, systems, algorithms, and figuring out how things actually work
-- ⚔️ **Current grind** — DSA, competitive programming, projects & hackathons (*stop the cap*)
+- ⚔️ **Current grind** — DSA, competitive programming, projects & hackathons (*stop the 🧢*)
 - 🚀 **Favourite thing to do** — Build something just to see if I can
 - 🐛 **Debugging methodology** — "There's no way that's the problem."
   *It was the problem.*
