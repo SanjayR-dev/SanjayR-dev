@@ -172,8 +172,8 @@
 
 <p>
 <a href="https://github.com/SanjayR-dev"><img src="https://img.shields.io/badge/GitHub-SanjayR--dev-0A0F1E?style=for-the-badge&logo=github&logoColor=00C8FF&labelColor=0A0F1E&color=00C8FF" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=6C5CFF&labelColor=0A0F1E&color=6C5CFF" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0A0F1E?style=for-the-badge&logo=gmail&logoColor=B44DFF&labelColor=0A0F1E&color=B44DFF" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/Sanjay-R/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A0F1E?style=for-the-badge&logo=linkedin&logoColor=6C5CFF&labelColor=0A0F1E&color=6C5CFF" alt="LinkedIn"/></a>
+<a href="mailto:sanjay.rajkumart@example.com"><img src="https://img.shields.io/badge/Email-Say%20hi-0A0F1E?style=for-the-badge&logo=gmail&logoColor=B44DFF&labelColor=0A0F1E&color=B44DFF" alt="Email"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:6C5CFF,100:B44DFF&height=110&section=footer&reversal=true" width="100%" alt="footer"/>
