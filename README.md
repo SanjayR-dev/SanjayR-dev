@@ -85,3 +85,38 @@ Fun facts:
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D4EDD,100:FF2E97&height=120&section=footer&reversal=true" width="100%" alt="footer"/> </div>
+
+Snake · YML
+name: Generate Snake
+ 
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+ 
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
