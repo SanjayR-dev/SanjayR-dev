@@ -1,39 +1,16 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF2E97,50:9D4EDD,100:00F5FF&height=230&section=header&text=SANJAY%20R&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%E3%80%8C%20can%20we%3F%20%E2%86%92%20we%20did.%20%E3%80%8D&descSize=20&descAlignY=66&descAlign=50" width="100%" alt="header"/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=720&height=45&lines=%3E+booting+sanjay.exe+...;%3E+CS+student+%7C+C%2B%2B+%2B+Python+%2B+bad+ideas;%3E+AI%2FML+%C2%B7+Systems+%C2%B7+Algorithms;%3E+currently+turning+%22can+we%3F%22+into+%22we+did.%22" alt="typing"/> <br/> <img src="https://img.shields.io/badge/STATUS-STILL_FIGURING_IT_OUT-FF2E97?style=for-the-badge&labelColor=0d1117" alt="status"/> <img src="https://img.shields.io/badge/FUEL-CAFFEINE-9D4EDD?style=for-the-badge&labelColor=0d1117" alt="fuel"/> <img src="https://img.shields.io/badge/MODE-BUILD_FIRST-00F5FF?style=for-the-badge&labelColor=0d1117" alt="mode"/> <br/> <img src="https://komarev.com/ghpvc/?username=SanjayR-dev&label=VISITORS&color=9D4EDD&style=for-the-badge" alt="views"/> </div> <br/>
-🖥️ $ ./boot.sh
-bash
-sanjay@dev:~$ ./boot.sh
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF2E97,50:9D4EDD,100:00F5FF&height=230&section=header&text=SANJAY%20R&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%E3%80%8C%20can%20we%3F%20%E2%86%92%20we%20did.%20%E3%80%8D&descSize=20&descAlignY=66&descAlign=50" width="100%" alt="header"/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=720&height=45&lines=CS+student+%7C+C%2B%2B+%2B+Python+%2B+bad+ideas;AI%2FML+%C2%B7+Systems+%C2%B7+Algorithms;Turning+%22can+we%3F%22+into+%22we+did.%22;Building+things+just+to+see+if+I+can" alt="typing"/> <br/> <img src="https://img.shields.io/badge/STATUS-STILL_FIGURING_IT_OUT-FF2E97?style=for-the-badge&labelColor=0d1117" alt="status"/> <img src="https://img.shields.io/badge/FUEL-CAFFEINE-9D4EDD?style=for-the-badge&labelColor=0d1117" alt="fuel"/> <img src="https://img.shields.io/badge/MODE-BUILD_FIRST-00F5FF?style=for-the-badge&labelColor=0d1117" alt="mode"/> <br/> <img src="https://komarev.com/ghpvc/?username=SanjayR-dev&label=VISITORS&color=9D4EDD&style=for-the-badge" alt="views"/>
 
-[  OK  ] Loading curiosity ............ 100%
-[  OK  ] Mounting unreasonable_ideas .. 100%
-[ WARN ] Sleep schedule ............... not found
-[  OK  ] Starting terminal that has seen some things
-[  OK  ] Compiling "wouldn't it be funny if..." into a repo
+<br/><br/>
 
-sanjay@dev:~$ cat whoami.txt
-yaml
-name:        Sanjay R
-role:        Computer Science student / professional rabbit-hole explorer
-languages:   [ C++, Python, Java, JavaScript, TypeScript ]
-obsessions:  [ AI/ML, systems, algorithms, how things actually work ]
-side_quests: [ DSA, competitive programming, hackathons ]
-debugging:   '"There is no way that is the problem."  # it was the problem'
-fuel:        caffeine + unnecessarily ambitious ideas
-status:      still figuring it out (and enjoying it)
-<br/>
-🎮 CHARACTER SHEET
-<div align="center">
-🧬 Class	⚔️ Weapon	🛡️ Armor	🔮 Special Move
-Builder / Tinkerer	C++ & Python	Git (and prayer)	"Okay, one more feature"
-</div>
-text
- CURIOSITY    ██████████████████████████████  MAX
- CAFFEINE     ████████████████████████░░░░░░  80%
- IDEAS        ██████████████████████████████  unreasonable
- SLEEP        ███░░░░░░░░░░░░░░░░░░░░░░░░░░░  lol
- DEBUGGING    ██████████████████░░░░░░░░░░░░  improving
-<br/>
-🧰 INVENTORY
-<p align="center"> <!-- Languages -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00F5FF&width=520&height=150&multiline=true&repeat=false&lines=%24+.%2Fboot.sh;%5B+OK+%5D+Loading+curiosity+...+100%25;%5B+OK+%5D+Mounting+unreasonable_ideas;%5BWARN%5D+Sleep+schedule+not+found;%5B+OK+%5D+Terminal+that+has+seen+some+things;%5B+OK+%5D+System+ready.+Let%27s+build." alt="boot sequence"/> </div> <br/> <div align="center"> <h2>💬 thought of the moment</h2> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1400&color=FF2E97&center=true&vCenter=true&width=760&height=50&lines=Ship+it+ugly%2C+fix+it+pretty.;Every+bug+is+a+feature+nobody+has+explained+yet.;First+make+it+work%2C+then+fast%2C+then+less+scary.;Build+something+slightly+out+of+your+depth.;If+it+compiles+first+try%2C+be+suspicious.;Today%27s+impossible+is+tomorrow%27s+merged+PR.;Stay+curious.+Break+things.+Write+the+README+later." alt="rotating quotes"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote"/>
+
+<sub>↻ refresh the page for a new quote</sub>
+
+</div> <br/> <div align="center"> <h2>🖥️ whoami</h2> <table> <tr><td align="right"><b>🎓 Doing</b></td><td>Computer Science</td></tr> <tr><td align="right"><b>💻 Usually found</b></td><td>Between C++, Python, and a questionable idea</td></tr> <tr><td align="right"><b>🧠 Obsessed with</b></td><td>AI/ML, systems, algorithms, how things actually work</td></tr> <tr><td align="right"><b>⚔️ Side quests</b></td><td>DSA, competitive programming, hackathons</td></tr> <tr><td align="right"><b>🐛 Debugging</b></td><td><i>"There's no way that's the problem."</i> It was the problem.</td></tr> <tr><td align="right"><b>☕ Fuel</b></td><td>Caffeine and unnecessarily ambitious ideas</td></tr> <tr><td align="right"><b>📈 Status</b></td><td>Still figuring it out (and enjoying it)</td></tr> </table> </div> <br/> <div align="center"> <h2>🎮 character sheet</h2> <img src="https://img.shields.io/badge/CLASS-BUILDER_%2F_TINKERER-FF2E97?style=for-the-badge&labelColor=0d1117" alt="class"/> <img src="https://img.shields.io/badge/WEAPON-C%2B%2B_%26_PYTHON-9D4EDD?style=for-the-badge&labelColor=0d1117" alt="weapon"/> <img src="https://img.shields.io/badge/ARMOR-GIT_(AND_PRAYER)-00F5FF?style=for-the-badge&labelColor=0d1117" alt="armor"/> <br/> <img src="https://img.shields.io/badge/CURIOSITY-MAX-FF2E97?style=flat-square&labelColor=0d1117" alt="curiosity"/> <img src="https://img.shields.io/badge/CAFFEINE-80%25-9D4EDD?style=flat-square&labelColor=0d1117" alt="caffeine"/> <img src="https://img.shields.io/badge/IDEAS-UNREASONABLE-00F5FF?style=flat-square&labelColor=0d1117" alt="ideas"/> <img src="https://img.shields.io/badge/SLEEP-LOL-FF2E97?style=flat-square&labelColor=0d1117" alt="sleep"/> <img src="https://img.shields.io/badge/DEBUGGING-IMPROVING-9D4EDD?style=flat-square&labelColor=0d1117" alt="debugging"/> </div> <br/> <div align="center"> <h2>🧰 inventory</h2> </div> <p align="center"> <!-- Languages -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" title="C++" alt="C++"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" title="Python" alt="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" title="Java" alt="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript" alt="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript" alt="TypeScript"/>
 
@@ -45,78 +22,14 @@ text
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" title="MySQL" alt="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="45" height="45" title="Firebase" alt="Firebase"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" title="Docker" alt="Docker"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="45" title="AWS" alt="AWS"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" title="Git" alt="Git"/>
 
-</p> <br/>
-📜 QUEST LOG
-	Quest	Details	Class
-🗡️	Resume-Analyser	Throw a resume in, get insight out	JavaScript
-🧠	dbms-lru-cache-management	DB connectivity layer for an LRU cache system	Python
-🤲	haptic-belt	Ideathon 2026 build	Hardware + Code
-🧩	TestIQ	Forked & exploring	Python
-⏳	timeCapsule	Forked & tinkering	TypeScript
-<br/>
-🌌 TECH TREE
-🌱 Fundamentals
-⚔️ DSA & CP
-🛠️ Projects
-🧠 AI / ML
-⚙️ Systems
-🚀 Agents & Pipelines
-✨ Somethingunreasonably cool
-<br/>
-📈 TELEMETRY
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayR-dev&bg_color=0d1117&color=00F5FF&line=FF2E97&point=ffffff&area=true&area_color=9D4EDD&hide_border=true" width="95%" alt="activity graph"/> <br/> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanjayR-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF2E97&icon_color=00F5FF&text_color=c9d1d9" alt="stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayR-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF2E97&text_color=c9d1d9" alt="top langs"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=SanjayR-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="trophies"/>
+</p> <br/> <div align="center"> <h2>📜 quest log</h2> <table> <tr><th></th><th>Quest</th><th>Details</th><th>Class</th></tr> <tr><td>🗡️</td><td><a href="https://github.com/SanjayR-dev/Resume-Analyser"><b>Resume-Analyser</b></a></td><td>Throw a resume in, get insight out</td><td>JavaScript</td></tr> <tr><td>🧠</td><td><a href="https://github.com/SanjayR-dev/dbms-lru-cache-management"><b>dbms-lru-cache-management</b></a></td><td>DB layer for an LRU cache system</td><td>Python</td></tr> <tr><td>🤲</td><td><a href="https://github.com/SanjayR-dev/haptic-belt"><b>haptic-belt</b></a></td><td>Ideathon 2026 build</td><td>Hardware + Code</td></tr> <tr><td>🧩</td><td><a href="https://github.com/SanjayR-dev/TestIQ"><b>TestIQ</b></a></td><td>Forked and exploring</td><td>Python</td></tr> <tr><td>⏳</td><td><a href="https://github.com/SanjayR-dev/timeCapsule"><b>timeCapsule</b></a></td><td>Forked and tinkering</td><td>TypeScript</td></tr> </table> </div> <br/> <div align="center"> <h2>📈 telemetry</h2> <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanjayR-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF2E97&icon_color=00F5FF&text_color=c9d1d9" alt="stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayR-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF2E97&text_color=c9d1d9" alt="top languages"/> <br/> <img src="https://streak-stats.demolab.com?user=SanjayR-dev&hide_border=true&background=0d1117&ring=FF2E97&fire=FF2E97&currStreakLabel=00F5FF&sideLabels=9D4EDD&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak"/> </div> <br/> <div align="center"> <details> <summary><b>🎁 secret level (click me)</b></summary> <br/>
 
-<br/><br/>
+<b>Achievement unlocked:</b> Curious Enough To Open A Collapsed Section 🏆 <br/><br/> "It works on my machine" has been said in this house.<br/> Every project starts as a joke and ends up with a Git repo.<br/> The terminal has, indeed, seen some things.
 
-<!-- Needs the snake.yml workflow to be set up. See notes. --> <img src="https://raw.githubusercontent.com/SanjayR-dev/SanjayR-dev/output/github-snake-dark.svg" width="95%" alt="snake"/> </div> <br/> <details> <summary><b>🎁 Secret level (click me)</b></summary> <br/>
-text
-> Achievement unlocked: Curious Enough To Open A Collapsed Section
-
-Fun facts:
-  - "It works on my machine" has been said in this house.
-  - Every project starts as a joke and ends up with a Git repo.
-  - The terminal has, indeed, seen some things.
-</details> <br/>
-📡 OPEN COMMS
-<div align="center">
+</details> </div> <br/> <div align="center"> <h2>📡 open comms</h2>
 
 <a href="https://github.com/SanjayR-dev"><img src="https://img.shields.io/badge/GitHub-SanjayR--dev-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0d1117&color=9D4EDD" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0d1117&color=FF2E97" alt="LinkedIn"/></a> <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say_hi-0d1117?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0d1117&color=9D4EDD" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D4EDD,100:FF2E97&height=120&section=footer&reversal=true" width="100%" alt="footer"/> </div>
-
-Snake · YML
-name: Generate Snake
- 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
- 
-permissions:
-  contents: write
- 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
- 
-      - name: Push to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:9D4EDD,100:FF2E97&height=120&section=footer&reversal=true" width="100%" alt="footer"/> </div>
